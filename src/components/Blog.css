@@ -1,0 +1,45 @@
+.get{
+    margin-top: -500px !important;
+}
+.blog_section{
+    display: flex;
+}
+.blog_section h1{
+margin-top: 20px;
+}
+.blog_img_section img{
+    display: block;
+    margin-top: 20px;
+}
+.blog_card{
+    height: 235px;
+    max-width: 465px;
+    border: 2px solid #E0E1E6;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+}
+.blog_flex{
+    display: flex;
+    gap: 40px;
+    padding-bottom: 20px;
+    padding-top: 40px;
+}
+.blog_card button{
+    width: 95px;
+    height: 30px;
+    border-radius: 20px;
+    border: none;
+    background: #d2f3de;
+    color: #38EF7D;
+}
+.blog_flex h6{
+    padding-top: 10px;
+    font-size: 14px;
+}
+.blog_card p{
+    color: grey !important;
+    font-size: 13px;
+}

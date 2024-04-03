@@ -1,0 +1,107 @@
+.digital_section{
+    width: 100%;
+    height: 190px;
+    margin-top: 290px;
+    background-image: linear-gradient(#38EF7D, #118C99 );  
+}
+.flexible_item{  
+    display: flex;
+     justify-content:  space-between;
+     align-items: center;
+    padding-top: 60px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.flexible_item h1{
+    font-size: 60px;
+    color: #fff;
+}
+.green_circle{
+    margin-top: 80px;
+    margin-left: 50px;
+    width: 100%;
+    height: 480px;
+    max-width: 315px;
+    margin-left: auto;
+    margin-right: auto;
+ background-image: linear-gradient(#38EF7D, #118C99 );
+ border-radius: 160px;
+ text-align: center;
+}
+.flex_section_1{
+    /* max-width: 1500px; */
+    display: flex;
+    /* gap: 40px; */
+   
+}
+.green_circle img{
+    padding-top: 50px;
+}
+.green_circle h3,
+.green_circle p{
+    padding-top: 16px;
+    color: #fff;
+}
+.project_section{
+    margin-top: 200px;
+    max-width: 1100px;
+    display: flex;
+    gap: 120px;
+    /* justify-content: space-between; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.project_section h5{
+    color: #38EF7D;
+    margin-bottom: 20px;
+}
+.project_section h1{
+    font-weight: 700;
+}
+.project_section p{
+    max-width: 420px;
+    line-height: 23px;
+margin-top: 30px;
+color: #4F7396;
+margin-left: -55px;
+}
+.image_section_2{
+    margin-top: 90px;
+    width: 100%;
+    display:  flex;
+    overflow: hidden;
+}
+.image_section_1 img{
+    max-width: 450px;
+    height: 812px;
+}
+.arrow_image{
+    position:  absolute;
+    margin-top: 290px;
+    left: 46%;
+}
+.image_section_2 button{
+    width: 154px;
+    height: 50px;
+    border-radius: 30px;
+    border: none;
+    /* margin-top: 220px; */
+    margin-left: -100px;
+    margin-top: 140px;
+    color: #fff;
+    font-size: 20px;
+    /* margin-top: 250px; */
+    background-image: linear-gradient(#38EF7D, #118C99 );
+}
+.marketing_button h2{
+color: #fff;
+margin-left: -90px;
+margin-top: 20px;
+}
+.arrows{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 50px;
+    color: #38EF7D;
+    cursor: pointer;
+}

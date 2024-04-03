@@ -1,0 +1,70 @@
+.hero_section{
+    width: 100%;
+}
+ .image_section{
+    background-image: url('../Asset/bg_img.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+ }
+ .flex_items{
+    max-width: 1100px;
+    display: flex;
+    gap: 30px;
+     margin-left: auto;
+     margin-right: auto;
+ }
+ .marketing_section{
+    padding-top: 100px;
+ }
+ .marketing_section h5{
+    color: #38EF7D;
+    font-weight: 500;
+    font-size: 16px;
+ }
+ .marketing_section h1{
+    color: #fff;
+    max-width: 400px;
+    font-size: 50px;
+ }
+ .marketing_section h1 span{
+    color: #118C99;
+    text-decoration: underline;
+}
+.marketing_section p{
+     color: #fff;
+     max-width: 550px;
+      padding-top: 10px;
+}
+.started{
+    margin-top: 20px;
+    display: flex;
+    gap: 30px;
+}
+.started button{
+    height: 54px;
+    width: 165px;
+    border-radius: 20px;
+    border: 4px solid #118C99;
+    background: none;
+    color: #118C99;
+}
+.arrow_circle{
+    height: 45px;
+    width: 47px;
+    border-radius: 50%;
+    background-color: #38EF7D;
+    margin-left: -30px;
+    top: 40px;
+    color: #fff;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 8px;
+}
+.img_grp{
+    margin-top: -20px;
+    margin-left: 150px;
+}
+ 
+ 

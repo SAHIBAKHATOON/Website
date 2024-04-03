@@ -1,0 +1,61 @@
+.work_section h1{
+    font-size: 50px;
+}
+.card_section{
+    display: flex;
+    gap: 10px;
+}
+.card{
+    max-width: 530px;
+    height: 330px;
+    background-color: #fff;
+    border-radius: 20px;
+    margin-top: 60px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.card_item_flex{
+    display: flex;
+    gap: 20px;
+}
+.star{
+    padding-left: 220px;
+     font-size: 25px;
+      padding-top: 50px;
+      color: rgb(252, 252, 27);
+}
+.card img{
+    margin-top: -50px;
+}
+.card p{
+    max-width: 290px;
+    font-size: 18px;
+    padding-top: 10px;
+    line-height: 23px;
+}
+.card_flex{
+    display:  flex;
+    justify-content: space-between;
+     padding-left: 10px;
+     padding-right: 10px;
+     font-size: 18px;
+     padding-top: 15px;
+ }
+ .card_flex h6{
+    color: #38EF7D;
+    font-size: 14px;
+ }
+ .progress_bar{
+    max-width: 1200px;
+    display: flex;
+    gap: 60px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 50px;
+    color: #38EF7D;
+ }
+ .progress_bar img{
+    height: 6px;
+    margin-top: 20px;
+    max-width: 700px;
+ }

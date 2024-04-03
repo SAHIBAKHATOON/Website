@@ -1,0 +1,78 @@
+.about_section{
+    max-width: 1500px;
+    display: flex;
+     justify-content: space-between;
+     margin-left: 90px;
+    /* margin-left: auto; */
+    /* margin-right: auto; */
+    margin-top: 100px;
+}
+.about_section h1{
+    max-width: 600px;
+    font-size: 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.about_section h5{
+    color: #38EF7D;
+    font-size: 16px;
+}
+.about_section p{
+    max-width: 500px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 20px;
+    color: #4F7396;
+}
+.experience{
+    display: flex;
+    gap: 110px;
+    margin-top: -290px ;
+    margin-left: 90px;
+}
+.experience h2{
+color: #38EF7D;
+font-size: 65px;
+font-weight: bold;
+}
+.product{
+    margin-top: 10px;
+}
+.experience h4{
+    color: #4F7396;
+    font-size: 19px;
+}
+ .twenty_four .circle_2{
+    border-radius: 50%;
+    background-image: linear-gradient(#38EF7D, #118C99 );  
+    color: #fff;
+    text-align: center;
+    font-size: 17px;
+    padding: 15px;
+}
+.twenty_four button{
+    height:  54px;
+    width: 164px;
+    border: none;
+    background: none;
+    border: 2px solid #38EF7D;
+    border-radius: 30px;
+    color: #38EF7D;
+    margin-top: 40px;
+}
+.experience ul{
+    list-style: none;
+    font-weight: 600;
+}
+.experience ul li{
+    margin-top: 10px;
+}
+.tick{
+    height: 20px;
+    width: 20px;
+    border: none;
+    border-radius: 50%;
+    background-color: #BFF4BE;
+    margin-right: 10px;
+}
+ 

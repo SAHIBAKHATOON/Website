@@ -1,0 +1,34 @@
+.work_section{
+    width: 100%;
+    text-align: center;
+    margin-top: 50px;
+}
+.work_section h5{
+    margin-bottom: 20px;
+    color: #38EF7D;
+}
+.work_section h1{
+    color: #0D141C;
+    font-weight: bold;
+}
+.circle_flex{
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    display: flex;
+     justify-content: space-between;
+}
+ .circle_flex h2{
+    margin-top: 20px;
+    /* margin-left: 20px; */
+    text-align: center;
+    margin-bottom: 10px;
+ }
+.circle_flex p{
+    max-width: 280px;
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: #4F7396;
+}
